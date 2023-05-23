@@ -35,4 +35,4 @@ Este projeto foi elaborado no Python. A lista de bibliotecas utilizadas foi: 1. 
                                                                              33. import math
                                                                              34. from matplotlib import rcParams
                                                                             
-[Página pessoal no Github](robertomoniz.github.io)
+[Página pessoal no Github](https://robertomoniz.github.io/)
