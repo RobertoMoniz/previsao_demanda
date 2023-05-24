@@ -1,9 +1,9 @@
 # previsao_receita
-## Previsão de receita para seis meses futuros
+## Previsão de receita para seis meses
 
 Este projeto foi elaborado no **Python**.
 
-Modelos de Machine Learning utilizados:
+Modelos de **Machine Learning** utilizados:
 
 1. Linear Regression
 2. XGBRegressor
@@ -11,7 +11,7 @@ Modelos de Machine Learning utilizados:
 4. Prophet
 5. Arima
 
-Modelos de Deep Learning utilizados:
+Modelos de **Deep Learning** utilizados:
 
 1. Simple Deep Learning
 2. LSTM
@@ -53,6 +53,6 @@ Bibliotecas utilizadas:
 33. import math
 34. from matplotlib import rcParams
 
-Caso não tenha alguma biblioteca utilizada no projeto, basta executar o comando !pip install biblioteca
+Caso não tenha alguma biblioteca utilizada no projeto, basta executar o comando *!pip install biblioteca*
                                                                         
 [Página pessoal no Github](https://robertomoniz.github.io/)
