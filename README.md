@@ -1,6 +1,22 @@
 # previsao_receita
 ## Previsão de receita para seis meses futuros
-Este projeto foi elaborado no Python. A lista de bibliotecas utilizadas foi:
+
+Este projeto foi elaborado no Python.
+
+Os modelos de Machine Learning utilizados foram:
+
+1. Linear Regression
+2. XGBRegressor
+3. Random Forest Regressor
+4. Prophet
+5. Arima
+
+Os modelos de Deep Learning utilizados foram:
+
+1. Simple Deep Learning
+2. LSTM
+
+A lista de bibliotecas utilizadas foi:
 
 1. import pandas as pd
 2. import scipy.stats as stats
@@ -36,5 +52,7 @@ Este projeto foi elaborado no Python. A lista de bibliotecas utilizadas foi:
 32. import tensorflow as tf
 33. import math
 34. from matplotlib import rcParams
+
+Caso não tenha alguma biblioteca utilizada no projeto, basta executar o comando !pip install biblioteca
                                                                         
 [Página pessoal no Github](https://robertomoniz.github.io/)
