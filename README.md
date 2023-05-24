@@ -1,4 +1,4 @@
-# previsao_demanda
+# previsao_receita
 ## Previsão de receita para seis meses futuros
 Este projeto foi elaborado no Python. A lista de bibliotecas utilizadas foi:
 
