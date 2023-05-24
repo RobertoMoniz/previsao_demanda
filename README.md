@@ -1,9 +1,9 @@
 # previsao_receita
 ## Previsão de receita para seis meses futuros
 
-Este projeto foi elaborado no Python.
+Este projeto foi elaborado no **Python**.
 
-Os modelos de Machine Learning utilizados foram:
+Modelos de Machine Learning utilizados:
 
 1. Linear Regression
 2. XGBRegressor
@@ -11,12 +11,12 @@ Os modelos de Machine Learning utilizados foram:
 4. Prophet
 5. Arima
 
-Os modelos de Deep Learning utilizados foram:
+Modelos de Deep Learning utilizados:
 
 1. Simple Deep Learning
 2. LSTM
 
-A lista de bibliotecas utilizadas foi:
+Bibliotecas utilizadas:
 
 1. import pandas as pd
 2. import scipy.stats as stats
