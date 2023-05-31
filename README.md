@@ -1,5 +1,8 @@
-# previsao_receita
-## Previsão de receita para seis meses
+# Para visualizar minha análise de dados com Power Bi, acesse o link abaixo.
+
+https://app.powerbi.com/groups/c927a569-ee78-4fc6-a053-3531fb998207/reports/abce44f7-bcf2-4661-895f-b7040ea7a558?ctid=da49a844-e2e3-40af-86a6-c3819d704f49&pbi_source=linkShare
+
+# Previsão de receita para seis meses
 
 Este projeto foi elaborado no **Python**.
 
