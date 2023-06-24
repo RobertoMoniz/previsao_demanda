@@ -14,10 +14,9 @@ Modelos de **Machine Learning** utilizados:
 4. Prophet
 5. Arima
 
-Modelos de **Deep Learning** utilizados:
+Modelo de **Deep Learning** utilizado:
 
-1. Simple Deep Learning
-2. LSTM
+1. LSTM
 
 Bibliotecas utilizadas:
 
